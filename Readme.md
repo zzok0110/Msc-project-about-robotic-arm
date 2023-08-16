@@ -2,7 +2,7 @@ path: eDO\robots
 
 1. Run start_up_surgery.m first.
 
-2. Each .slx file need to change the path of Simscape models of eDO with the right mesh file first.
+2. Each .slx file needs to change the path of Simscape models of eDO with the right mesh file first.
 
 3. 'with_recover xxx.slx' are 3 desired force cases. 'error_all.slx' and 'for_plot.slx' are using to get diagrams.
 
