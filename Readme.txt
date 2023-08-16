@@ -1,4 +1,4 @@
-path: eDO_2816238Z\robots
+path: eDO\robots
 
 1. Run start_up_surgery.m first.
 
