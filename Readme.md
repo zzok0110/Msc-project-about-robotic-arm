@@ -1,4 +1,4 @@
-path: eDO\robots
+##path: eDO\robots
 
 1. Run start_up_surgery.m first.
 
@@ -10,4 +10,4 @@ path: eDO\robots
 
 Simulation takes time.
 
-
+Simulation: https://www.youtube.com/watch?v=BJSULV3gbEw
